@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vonzo</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 18 Oct 2026 22:16:18 -0300</pubDate>
+            <link>https://github.com/Gitarcitano/vonzo-releases</link>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Primeira versão do app Vonzo para Mac.
+]]></description>
+            <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.1.0/Vonzo-0.1.0.dmg" length="17938037" type="application/octet-stream" sparkle:edSignature="as9FxndQQ4kEC3wqqs6VlQMG+Q5BTyKanZSuqQCSsMvyrfLp+ORJ4F3IaQMU9EdMuJL2S1jPGPBmyj39PcyDBw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: nUlimh8Efo4BpHEEHauQADRcatG2VORw1HjhKcZS3XtYBOU/t7BlYGlEPkJ881c8cl8+FFOmJ3qInPF/9O1kBg==
+length: 1240
+-->
