@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vonzo</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Sat, 21 Nov 2026 01:54:43 -0300</pubDate>
+            <link>https://github.com/Gitarcitano/vonzo-releases</link>
+            <sparkle:version>300</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Add the Antigravity provider through the agy CLI (#190)
+- Show the CLI Proxy account quotas in the providers settings (#189)
+- Create and revoke MCP agent tokens in the app (VEL-2051) (#185)
+- Message menu on right click over the bubble text and other Mac QA fixes (#178)
+]]></description>
+            <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.0/Vonzo-0.3.0.dmg" length="19438706" type="application/octet-stream" sparkle:edSignature="H5hYHX1yq1rUUEkOQbrL5is53+kKnkDXDcq1p78ZMOPALQWIuyRQEsJDolSed4bAYsVFkGFCVa3A9t1gTQT+Bg=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.0/Vonzo300-200.delta" sparkle:deltaFrom="200" length="3027410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1q9FbUh5vb7tPlNLs2n3R8nZpyrgWFUgYY0YY10BMxGVoDnpt7puIwmcPSGSKyRRjhPFCicgb5/S/g3ueKLxDg=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.0/Vonzo300-100.delta" sparkle:deltaFrom="100" length="5852330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t6TAX8OcYQNO1CB13wqzaHmRH8zPxQ40vu8PPWFnRKImd+ithLZRX2TTOt9i6EtVKXufOokbOsTJQfmsli6XCA=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 17 Nov 2026 23:40:09 -0300</pubDate>
             <link>https://github.com/Gitarcitano/vonzo-releases</link>
@@ -48,6 +66,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RiouRH0qTsb/bJQcqpwZB1NHnhVkjFjvsVMMMB7r98Jb6wN4BhtC7+xvFE97M8hvoFeDtYEdUWNkQNhhFXcMDQ==
-length: 3443
+edSignature: uMISm78m/f0Hf28E+UW9Vfq0qvqynxPIdCgMk2m3Ts4uyQeQHC4dECFrUnRrH1qg6KlZzxywfKvjDN7IbQ9fDQ==
+length: 5404
 -->
