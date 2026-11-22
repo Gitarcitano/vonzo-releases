@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vonzo</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Sun, 22 Nov 2026 18:50:27 -0300</pubDate>
+            <link>https://github.com/Gitarcitano/vonzo-releases</link>
+            <sparkle:version>302</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Allow a connector's tools to run without asking (#196)
+]]></description>
+            <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.2/Vonzo-0.3.2.dmg" length="19565070" type="application/octet-stream" sparkle:edSignature="R8hnyeEzjtRmNzmDJ+LmqEY82ONuOB5R0/tAXUtg2WJA/hBDTuw4VWQ4n+8AxWTkax73FHgrrhah/y0fqczSCg=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.2/Vonzo302-301.delta" sparkle:deltaFrom="301" length="1835082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lCDk/oZYeGTX8xeEDUJmqzMcKWoygxuC5mrD0Ya3ruIn7Cv0+pT0yJwody7k4dvxNKJMRY6nGr/44hmWIuJuAA=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.2/Vonzo302-300.delta" sparkle:deltaFrom="300" length="2909066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wi0e+TPjpkKWy1xdUvhbSLc6INRn+nSZmF6dEZUd8uPRWh4ZxFlycwQAkeF5CbCSSxiXbfDzwRhV+XK4UdCGBw=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.2/Vonzo302-200.delta" sparkle:deltaFrom="200" length="3430414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CsZX6Wn2K2gM2wBFgqDD16TeeOQa0W9BjvubIuBQlF+UgZcwt7SpdncJJDOrLqBCIDb+XVns7qJa6pmyKgfKDA=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.2/Vonzo302-100.delta" sparkle:deltaFrom="100" length="6129318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nx3vDxDX1F6YiSu6FpmM7M/0DqazlMQ+uPB30LoFjyk42QplV8DsWMGpWdGAt5bCss7BXAK6SzdCKRtf52O8Dw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Sat, 21 Nov 2026 09:46:06 -0300</pubDate>
             <link>https://github.com/Gitarcitano/vonzo-releases</link>
@@ -82,6 +99,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: mwtOPjpWGdQe6UnLT0NUALvqxLfUtyevS7R6PMrYNZlmCWy2QhdJxrBB3rZyBEeH0nr2kEdDg59YRclqnmylAQ==
-length: 7588
+edSignature: P8cA0ZW7DoAKfW4nY0KHMuUwIcBKG0Pe7i7tH3pXsB2w/7+xvuofRODtxdwCqYBZuNBmzJGhKdcfwpa8/pZFAA==
+length: 10186
 -->
