@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vonzo</title>
         <item>
+            <title>0.3.3</title>
+            <pubDate>Sun, 22 Nov 2026 23:25:40 -0300</pubDate>
+            <link>https://github.com/Gitarcitano/vonzo-releases</link>
+            <sparkle:version>303</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Os handoffs feitos dentro da conversa entre dois bots agora aparecem na linha do tempo e abrem a conversa seguinte, com Voltar e Fechar.
+- No Mac, o bot da linha de handoff ganha destaque e cursor de mão ao passar o mouse.
+]]></description>
+            <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo-0.3.3.dmg" length="19636309" type="application/octet-stream" sparkle:edSignature="XBZPCejhZ8spF/9npeEFQye7ShXKxkeFBZP6RDFLaa0G7FijagSvyceScbs9Ye7OgIcFvzneJfrlJhYE6SqrDQ=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo303-302.delta" sparkle:deltaFrom="302" length="2457970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UftB08hDghwzl3eXXqUyQTQApJxe36jTzFAOLZ95gMwaofb1sicCx/hT3OIjLZ4G7GrESoJEJt++VnkxTrOyAw=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo303-301.delta" sparkle:deltaFrom="301" length="2586806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qY7beob4HuBPqB2EMdCiUmWmC5KU3oOju3hlMi2XeZIrMua74TZeM886pz79qqnQD8SBGlg9FuBCRq0woUUXBg=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo303-300.delta" sparkle:deltaFrom="300" length="3159466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="95HhCxEj8bDwb7OOFiU+UVYtupc6Q/OSq7CYr9HvldmhyS3F+DdBDBaHg8UeN0Ck4z6PZ6PlG9yuW+rW7oEgAQ=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo303-200.delta" sparkle:deltaFrom="200" length="3643966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zN/hH7iBjYZG3wtf0vtFQpLFak5iO5y6fRcUm8GVmDVS5P7vk+qUZswG5orcDbW5OqvmGv5VwZSB9ZOIEKYlBw=="></enclosure>
+                <enclosure url="https://github.com/Gitarcitano/vonzo-releases/releases/download/app-v0.3.3/Vonzo303-100.delta" sparkle:deltaFrom="100" length="6234098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3GCmhW9MPI53hRCtO/dRwKKni7Xupfj3RWwHU9O5vUr9lO0H3DORl8l3nTZcgpTERHUbIMyJQyPH71Z+H8ptDw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Sun, 22 Nov 2026 18:50:27 -0300</pubDate>
             <link>https://github.com/Gitarcitano/vonzo-releases</link>
@@ -99,6 +118,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: P8cA0ZW7DoAKfW4nY0KHMuUwIcBKG0Pe7i7tH3pXsB2w/7+xvuofRODtxdwCqYBZuNBmzJGhKdcfwpa8/pZFAA==
-length: 10186
+edSignature: QVKWHqzr7rB7LySf6KF/i1Zsy+1W3clPIuBfzKQMByhtD6PPffwmVURragRKWTdwtYVqveuXmT/iWRGVzF5wAg==
+length: 13380
 -->
